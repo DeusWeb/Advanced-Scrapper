@@ -1,0 +1,8 @@
+times
+urllib3
+os-sys
+pystyle
+colorama
+google
+discord
+googlesearch-python
